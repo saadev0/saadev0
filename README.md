@@ -14,10 +14,12 @@ I design the system and make the decisions; AI coding agents write most of the c
 
 ### What I'm building at Fajar Synergy Tech
 
-- **SynergySI:** multi-tenant SaaS for academies and service businesses (sports, arts, fitness, coaching), live in production.
+- **SynergySI:** multi-tenant SaaS for academies and service businesses (sports, arts, fitness, coaching). Fully built; currently migrating to a new organisation backend.
 - **SynergySF:** marketing automation and client delivery for small businesses, live.
 
-### Ventures I'm part of
+### Client ventures
+
+Client businesses I'm part of, where I own and build the code:
 
 - **Tanti Infra**
 - **Seam Cricket Academy**
