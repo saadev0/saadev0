@@ -19,5 +19,3 @@ I also lean on research and brainstorming agents to stress-test ideas early. The
 ### Beyond code
 
 I also work as a marketing strategist for construction and residential real estate businesses, and as an art director for campaigns and generative visuals. Understanding the customer and the craft shapes how I design software too.
-
-📫 [LinkedIn](https://www.linkedin.com/in/saadev0)
