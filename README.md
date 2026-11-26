@@ -1,6 +1,6 @@
 ## Syed Abrar Afaque
 
-Co-Founder of Fajar Synergy Tech in Bengaluru, and its only developer. I'm a systems and product architect: I build software, the agent workflows that build it, and the brands that sell it.
+Co-Founder of Fajar Synergy Tech in Bengaluru, and its only developer. I'm a product and solutions architect: I build software, the agent workflows that build it, and the brands that sell it.
 
 I design the system and make the decisions; AI coding agents write most of the code. My work is making that reliable: clear boundaries, small reviewable changes, quality gates every agent has to pass, and honesty about what the agents did versus what I decided.
 
