@@ -1,29 +1,23 @@
-## Syed Abrar Afaque
+## Hi, I'm Syed 👋
 
-Co-Founder, Principal Solutions Architect & Solo Developer at **Fajar Synergy Tech**
+Co-Founder of **Fajar Synergy Tech** in Bengaluru, where I'm the architect, product owner and solo developer behind everything we ship.
 
-> I architect multi-tenant SaaS and marketing-automation systems, and I direct implementation agents through specifications, scoped workstreams, spec deltas, and decision gates.
+### What I work on
 
-I don't hand a prompt to an agent and ship whatever comes back. I run a gated loop and hold the authority at every gate:
+- **SynergySI**: a multi-tenant SaaS platform, live in production
+- **SynergySF**: marketing automation for small and growing businesses
+- Client platforms for **Tanti** and **Seam**
 
-```
-vision → architecture → scoped workstream → spec delta
-  → implementation agents → review → decision gate → revised spec
-```
+### How I build
 
-The spec is the contract. Agents build against it, and any change goes through a new delta, not a quiet edit in the code.
+I think in systems first. Before a line of code exists, I decide what the product is for, where the tenant and data boundaries sit, and what "done" means. Then I break the work into small, scoped workstreams.
 
-### How I split the work with models
+Each change starts as a written spec delta: what is changing, why, and how we'll know it works. AI agents in Antigravity do most of the implementation against that spec, and I review the result at a decision gate before anything moves forward. If the result doesn't hold up, the spec gets revised, not patched over.
 
-**Me:** product vision, constraints, architecture, tenancy and data boundaries, scope, acceptance criteria, decision gates, and QA and release authority.
-**Models:** implementation, refactoring, test generation, draft documentation, and review lenses.
+I also lean on research and brainstorming agents to stress-test ideas early. They don't write production code.
 
-Agents write most of the code. The architecture, the trade-offs, and the call on what ships are mine.
+### Beyond code
 
-### What I'm building
+I also work as a marketing strategist for construction and residential real estate businesses, and as an art director for campaigns and generative visuals. Understanding the customer and the craft shapes how I design software too.
 
-- **SynergySI**: a multi-tenant SaaS platform, now live
-- **SynergySF**: marketing automation
-- Client platforms for Tanti and Seam, built through Fajar Synergy Tech
-
-[LinkedIn](https://linkedin.com/in/saafaque)
+📫 [LinkedIn](https://linkedin.com/in/saafaque)
